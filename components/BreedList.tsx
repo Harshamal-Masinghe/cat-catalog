@@ -49,7 +49,7 @@ const BreedList: React.FC = () => {
 
   return (
     <div>
-      <h1>Cat Breeds</h1>
+      <h1>Cat Catalog</h1>
       <SearchInput
         type="text"
         placeholder="Search breeds"
