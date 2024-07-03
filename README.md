@@ -73,12 +73,15 @@ The app will be available at http://localhost:3000.
 ### Components
 * BreedList.tsx: Displays a list of cat breeds and allows searching.
 * BreedDetail.tsx: Displays detailed information about a selected cat breed.
+  
 ### Pages
 * index.tsx: The home page that includes the `BreedList` component.
 * breed/[id].tsx: Dynamic route for displaying breed details using the `BreedDetail` component.
+  
 ### Store
 * index.ts: Configures the Redux store.
 * breedSlice.ts: Defines the breed slice for managing cat breed data with Redux Toolkit.
+  
 ### Styles
 * globalStyles.ts: Contains global styles for the application.
 
