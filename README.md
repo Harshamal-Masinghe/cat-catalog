@@ -108,6 +108,3 @@ Starts the production build of the app.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-```typescript
-This `README.md` file provides a comprehensive overview of the project, including installation instructions, project structure, environment variable setup, available scripts, dependencies, and licensing information. Adjust any specific details such as the repository URL, API key, or other project-specific information as needed.
