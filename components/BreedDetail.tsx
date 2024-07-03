@@ -33,9 +33,10 @@ const BreedDetail: React.FC = () => {
       ) : (
         <p>No image available</p>
       )}
-      <p>Origin: {breed.origin}</p>
-      <p>Life Span: {breed.life_span}</p>
-      <p>{breed.description}</p>
+      <p>Origin : {breed.origin}</p>
+      <p>Life Span : {breed.life_span}</p>
+      <p>Description</p>
+        <div>{breed.description}</div>
     </Container>
   );
 };
