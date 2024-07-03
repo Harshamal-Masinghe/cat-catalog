@@ -27,7 +27,7 @@ const BreedDetail: React.FC = () => {
 
   return (
     <Container>
-      <h1>{breed.name}</h1>
+      <h1 style={{ textAlign: 'center' }}>{breed.name}</h1>
       {breed.image ? (
         <Image src={breed.image.url} alt={breed.name} />
       ) : (

@@ -14,7 +14,7 @@ const ListItem = styled.li`
   margin: 0.5rem 0;
   padding: 0.5rem;
   border: 1px solid #ccc;
-  border-radius: 4px;
+  border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.2s ease;
 
@@ -27,7 +27,7 @@ const SearchInput = styled.input`
   padding: 0.5rem;
   margin-bottom: 1rem;
   border: 1px solid #ccc;
-  border-radius: 4px;
+  border-radius: 5px;
   width: 100%;
 `;
 
@@ -49,7 +49,7 @@ const BreedList: React.FC = () => {
 
   return (
     <div>
-      <h1>Cat Catalog</h1>
+      <h1 style={{ textAlign: 'center' }}>Cat Catalog</h1>
       <SearchInput
         type="text"
         placeholder="Search breeds"
