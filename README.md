@@ -34,7 +34,7 @@ Ensure you have the following installed on your development machine:
         npm install
         # or
         yarn install
-3. Create a .env.local file in the root of the project and add your Cat API key:
+3. Create a .env.local file in the root of the project and add Cat API key:
 
     ```bash
         NEXT_PUBLIC_CAT_API_KEY=live_7pASTbr1wgSwkotytmK5tVH8DmH9QrO6JlEqZN0MjV3qoDj1oijmP4eelhlFWjvw
