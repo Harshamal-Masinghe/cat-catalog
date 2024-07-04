@@ -25,7 +25,7 @@ Ensure you have the following installed on your development machine:
 1. Clone the repository:
 
    ```bash
-        git clone https://github.com/your-username/cat-catalog.git
+        git clone https://github.com/Harshamal-Masinghe/cat-catalog.git
         cd cat-catalog
 
 2. Install the dependencies:
@@ -37,7 +37,7 @@ Ensure you have the following installed on your development machine:
 3. Create a .env.local file in the root of the project and add your Cat API key:
 
     ```bash
-        NEXT_PUBLIC_CAT_API_KEY=your_api_key_here
+        NEXT_PUBLIC_CAT_API_KEY=live_7pASTbr1wgSwkotytmK5tVH8DmH9QrO6JlEqZN0MjV3qoDj1oijmP4eelhlFWjvw
 
 4. Start the development server:
 
@@ -88,7 +88,7 @@ The app will be available at http://localhost:3000.
 ## Environment Variables
 The project uses the following environment variables:
 
-* NEXT_PUBLIC_CAT_API_KEY: Your Cat API key.
+* NEXT_PUBLIC_CAT_API_KEY: live_7pASTbr1wgSwkotytmK5tVH8DmH9QrO6JlEqZN0MjV3qoDj1oijmP4eelhlFWjvw.
 
 ## Available Scripts
 In the project directory, you can run:
