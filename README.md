@@ -25,7 +25,7 @@ Ensure you have the following installed on your development machine:
 1. Clone the repository:
 
    ```bash
-        git clone https://github.com/Harshamal-Masinghe/cat-catalog.git
+        git clone https://github.com/your-username/cat-catalog.git
         cd cat-catalog
 
 2. Install the dependencies:
